@@ -1,3 +1,5 @@
+// Thread safe ringbuffer implementation
+// Credits : EmbeddedArtistry.com
 
 #include <iostream>
 #include <memory>
