@@ -1,4 +1,8 @@
-Programming design patterns in cpp
+Programming design patterns , best practices and Libraries in cpp
+
+Libraries:
+http://www.partow.net/programming/index.html
+
 
 Design patterns links:
 
